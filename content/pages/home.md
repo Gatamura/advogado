@@ -1,6 +1,6 @@
 ---
-title: Hello World!
-featuredImage: /images/uploads/isabella juskova.jpg
+title: Opaa beleza ?
+featuredImage: /images/uploads/myphototest.jpg
 subtitle: This is the home page subtitle
 meta:
   title: ''
